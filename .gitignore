@@ -1,0 +1,14 @@
+# Environment Variables (Protects your API keys)
+.env
+.env.local
+*.env
+
+# Python Virtual Environment
+venv/
+ENV/
+env/
+
+# Cache & Local Files
+__pycache__/
+*.pyc
+.deepeval/
